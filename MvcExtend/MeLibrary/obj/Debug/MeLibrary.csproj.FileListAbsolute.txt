@@ -1,0 +1,5 @@
+F:\GitProject\MvcExtend\MvcExtend\MeLibrary\bin\Debug\MeLibrary.dll
+F:\GitProject\MvcExtend\MvcExtend\MeLibrary\bin\Debug\MeLibrary.pdb
+F:\GitProject\MvcExtend\MvcExtend\MeLibrary\obj\Debug\MeLibrary.csprojResolveAssemblyReference.cache
+F:\GitProject\MvcExtend\MvcExtend\MeLibrary\obj\Debug\MeLibrary.dll
+F:\GitProject\MvcExtend\MvcExtend\MeLibrary\obj\Debug\MeLibrary.pdb
